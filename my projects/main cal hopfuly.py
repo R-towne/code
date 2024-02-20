@@ -123,3 +123,10 @@ print("answer 6 cube area",answer6)
 
 
 
+
+
+
+
+
+
+
